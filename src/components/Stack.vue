@@ -1,5 +1,5 @@
 <template>
-    <div class="flex flex-wrap sm:m-4 pb-10 mt-4 mr-6">
+    <div class="flex flex-wrap sm:m-4 pb-10 mt-4 mr-6 md:px-2 xl:px-40 2xl:px-60">
         <Card 
         title="Software Development" 
         text="My past projects cover a large spectrum of software development. Started with Java, had fun with C, did some backend stuff with Go and NodeJS and a lot more"
