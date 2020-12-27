@@ -1,5 +1,5 @@
 <template>
-    <div class="background-main h-screen">
+    <div class="background-main md:h-screen">
         <div class="flex justify-center pt-6">
             <img src="../assets/img/avatar.jpg" class="h-40 w-40 md:w-60 md:h-60 rounded-full border-white border-2">		
         </div>
